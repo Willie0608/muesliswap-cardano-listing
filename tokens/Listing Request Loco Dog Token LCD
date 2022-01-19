@@ -1,0 +1,8 @@
+"policyId": "fb47280589dfd58b8423aa93cc0b2b8252288b5344ef3c43084ac663",
+    "name": "Loco Dog",
+    "symbol": "LCD",
+    "website": "www.locodog.io",
+    "description": "A crazy new token to swap on Cardano. ",
+    "totalSupply": 300000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000],
+    "decimalPlaces": 6 }
