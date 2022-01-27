@@ -6,4 +6,5 @@
     "description": "A crazy new token to swap on Cardano. ",
     "totalSupply": 300000000,
     "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000],
-    "decimalPlaces": 6 }
+    "decimalPlaces": 6 
+}
